@@ -1,0 +1,6 @@
+c:\users\prashanth\documents\visual studio 2013\Projects\GitConsole\GitConsole\bin\Debug\GitConsole.exe.config
+c:\users\prashanth\documents\visual studio 2013\Projects\GitConsole\GitConsole\bin\Debug\GitConsole.exe
+c:\users\prashanth\documents\visual studio 2013\Projects\GitConsole\GitConsole\bin\Debug\GitConsole.pdb
+c:\users\prashanth\documents\visual studio 2013\Projects\GitConsole\GitConsole\obj\Debug\GitConsole.csprojResolveAssemblyReference.cache
+c:\users\prashanth\documents\visual studio 2013\Projects\GitConsole\GitConsole\obj\Debug\GitConsole.exe
+c:\users\prashanth\documents\visual studio 2013\Projects\GitConsole\GitConsole\obj\Debug\GitConsole.pdb
